@@ -57,7 +57,7 @@ defaults:
 
 # Serving
 url: "https://chirbah.github.io/chirbah/"
-baseurl: ""
+baseurl: "https://chirbah.github.io/chirbah/"
 
 # Includes
 include: ["_pages"]
