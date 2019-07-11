@@ -51,7 +51,7 @@ fixed_sidebar: 1
 defaults:
   -
     scope:
-      path: ""
+      path: "assets"
       type: "posts"
     values:
       comments: "true"
